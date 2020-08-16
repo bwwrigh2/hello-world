@@ -1,3 +1,10 @@
-# hello-world
+# Hello World!
 
-Hello, world! How are you? I know you've been going through some tough stuff recently, but we'll get through it together!
+Testing out some **Markdown**:
+- *Italics*
+- **Bold**
+- ***Bold and Italics***
+- > Quote block  
+  >> Nested Quote block
+  
+       Code Block
